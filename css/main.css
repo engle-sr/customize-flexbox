@@ -100,7 +100,7 @@ textarea {
 html {
   background: url(../pexels-element-digital-1051073.jpg) no-repeat center center fixed;
   height: 100%;
-  width: 1200px;
+  background-size: cover;
 
    /* set height to 100% - these are important for allowing content to vertically align */
 }
